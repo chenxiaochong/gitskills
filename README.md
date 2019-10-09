@@ -2,6 +2,4 @@
 1
 2
 3
-加一行代码
-stash
-第二次使用stash
+加（master）代码
